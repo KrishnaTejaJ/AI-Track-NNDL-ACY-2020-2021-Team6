@@ -1,1 +1,1 @@
-# AI-Track-NNDL-ACY-2020-2021-Team6
+# Epidemiological Prediction using Deep Learning
